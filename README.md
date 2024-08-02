@@ -8,6 +8,8 @@
 
 Starter ASP.NET Core API baked with env variables.
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/fKgMtM?referralCode=8JDnNA)
+
 ### Tech Stack
 
 - ASP.NET Core Web API
