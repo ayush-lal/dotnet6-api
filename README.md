@@ -1,9 +1,5 @@
-<!-- HEADER -->
 <div align="center">
-  <!-- <a href="https://github.com/ayush-lal/{repo_name}">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a> -->
-  <h3 align="center">PROJECT_TITLE</h3>
+  <h3 align="center">ASP.NET6 Core API (.NET6)</h3>
 </div>
 
 <hr>
@@ -14,8 +10,8 @@ An in-depth paragraph about your project and overview of use.
 
 ### Tech Stack
 
-* NextJS
-* ASP.NET Core
+- NextJS
+- ASP.NET Core
 
 ## Getting Started
 
